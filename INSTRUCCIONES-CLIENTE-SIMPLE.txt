@@ -1,0 +1,24 @@
+BLINKER 2.0 - INSTRUCCIONES DE INSTALACION
+==========================================
+
+REQUISITOS:
+- Windows 7/8/10/11
+- Conexion a internet
+
+INSTALACION:
+1. Descomprime todos los archivos en una carpeta
+2. Ejecuta: BLINKER-INSTALLER.bat
+3. Espera a que termine la instalacion
+
+USO:
+1. Ejecuta: BLINKER-START.bat
+2. Abre tu navegador en: http://localhost:3000
+3. Escanea el codigo QR con WhatsApp
+4. ¡Listo para enviar mensajes!
+
+SOPORTE:
+- El sistema funciona completamente offline
+- Los contactos se guardan automaticamente
+- Para detener: Ctrl+C en la ventana negra
+
+Creado por el equipo Lyntrax

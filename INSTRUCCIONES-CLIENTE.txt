@@ -1,0 +1,39 @@
+========================================
+    BLINKER 2.0 - INSTRUCCIONES DE USO
+    Creado por el equipo Lyntrax
+========================================
+
+🚀 INSTALACIÓN SÚPER FÁCIL:
+
+1. Ejecuta "BLINKER-INSTALLER.bat" (solo la primera vez)
+2. Espera a que termine la instalación
+3. Ejecuta "BLINKER-START.bat" para iniciar
+4. Abre tu navegador web en: http://localhost:3000
+5. ¡Ya puedes usar BLINKER 2.0!
+
+📱 CONECTAR WHATSAPP:
+
+1. En la pestaña "Conexión", verás un código QR
+2. Abre WhatsApp en tu teléfono
+3. Ve a Configuración → Dispositivos vinculados
+4. Escanea el código QR
+5. ¡Listo! WhatsApp conectado
+
+✉️ ENVIAR MENSAJES:
+
+- INDIVIDUAL: Pestaña "Mensaje Individual"
+- MASIVO: Pestaña "Envío Masivo"
+- CONTACTOS: Pestaña "Contactos" para gestionar
+
+🔧 REQUISITOS:
+- Windows 10 o superior
+- Conexión a internet
+- WhatsApp en el teléfono
+
+🔧 SOPORTE:
+Si tienes problemas, contacta al vendedor.
+
+========================================
+BLINKER 2.0 - Sistema profesional
+========================================
+</txt>

@@ -1,0 +1,36 @@
+# Dependencias
+node_modules/
+
+# Archivos de sesión de WhatsApp
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Datos locales del sistema
+data/
+whatsapp-session/
+
+# Archivos temporales
+uploads/
+temp/
+
+# Logs
+*.log
+logs/
+
+# Variables de entorno
+.env
+.env.local
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de build
+dist/
+build/

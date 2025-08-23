@@ -1,0 +1,28 @@
+========================================
+    ENTREGA INMEDIATA - BLINKER 2.0
+========================================
+
+PARA ENTREGAR A TU CLIENTE:
+
+1. COMPRIMIR CARPETA:
+   - Comprime toda la carpeta "BLINKER-2.0"
+   - Crear archivo ZIP
+
+2. ENVIAR AL CLIENTE:
+   - El archivo ZIP completo
+   - Todas las instrucciones están incluidas
+
+3. EL CLIENTE HACE:
+   - Descomprimir ZIP
+   - Ejecutar "BLINKER-INSTALLER.bat" (primera vez)
+   - Ejecutar "BLINKER-START.bat" (para usar)
+   - Abrir http://localhost:3000
+
+ARCHIVOS INCLUIDOS:
+✓ BLINKER-INSTALLER.bat (instalador automático)
+✓ BLINKER-START.bat (iniciador del sistema)
+✓ INSTRUCCIONES-CLIENTE.txt (guía completa)
+✓ Sistema completo funcional
+
+¡LISTO PARA ENTREGAR!
+========================================
